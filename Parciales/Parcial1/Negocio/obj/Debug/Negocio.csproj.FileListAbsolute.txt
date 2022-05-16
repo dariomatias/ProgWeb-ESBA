@@ -1,0 +1,14 @@
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\Negocio.dll
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\Datos.dll
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\Datos.pdb
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\Datos.dll.config
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\daerius\repos\Parcial1\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daerius\repos\Parcial1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\daerius\repos\Parcial1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\daerius\repos\Parcial1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\daerius\repos\Parcial1\Negocio\obj\Debug\Negocio.dll
+C:\Users\daerius\repos\Parcial1\Negocio\obj\Debug\Negocio.pdb

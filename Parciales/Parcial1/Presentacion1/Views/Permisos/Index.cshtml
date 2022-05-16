@@ -1,0 +1,33 @@
+﻿@using Datos
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Accione> acciones = TempData["permisos"] as List<Accione>;
+}
+
+<h2>Acciones admitidas para el usuario actual</h2>
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Action</th>
+      <th scope="col">Controller</th>
+    </tr>
+  </thead>
+  <tbody>
+@{
+    foreach (var accion in acciones)
+    {
+        <tr>
+            <th scope="row">@accion.IdAccion</th>
+            <td>@accion.Action</td>
+            <td>@accion.Controller</td>
+        </tr>
+    }
+}
+  </tbody>
+</table>
+
+

@@ -1,0 +1,14 @@
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\Datos.dll.config
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\Datos.dll
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\Datos.pdb
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\Antlr3.Runtime.dll
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\EntityFramework.dll
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\EntityFramework.xml
+C:\Users\daerius\repos\Parcial1\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daerius\repos\Parcial1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\daerius\repos\Parcial1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\daerius\repos\Parcial1\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\daerius\repos\Parcial1\Datos\obj\Debug\Datos.dll
+C:\Users\daerius\repos\Parcial1\Datos\obj\Debug\Datos.pdb

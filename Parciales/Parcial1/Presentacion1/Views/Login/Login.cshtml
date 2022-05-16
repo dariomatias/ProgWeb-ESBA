@@ -1,0 +1,19 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Icon -->
+    <div class="fadeIn first">
+      <img src="~/Content/Icons/user_icon-icons.com_66546.svg" id="icon" alt="User Icon" />
+    </div>
+
+    <!-- Login Form -->
+    <form autocomplete="off" action="@Url.Action("Login", "Login")" method="post">
+      <input type="text" id="user" class="fadeIn second" name="user" placeholder="login">
+      <input type="text" id="pass" class="fadeIn third" name="pass" placeholder="password">
+      <input type="submit" class="fadeIn fourth" value="Log In">
+    </form>
+  </div>
+</div>
